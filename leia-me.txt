@@ -1,0 +1,20 @@
+##instale o python no portal da empresa##
+
+1) pesquisa por "portal da empresa" no campo de pesquisa na barra de tarefas
+2) procure por python
+3) instale
+
+##Instale biblioteca##
+
+1) abra o msdos ou prompt de comando
+
+2) digite o comando abaixo
+
+pip install pyautogui
+
+##abrindo o programa##
+
+1) clique com o botão direito no arquivo mouse.py
+2) abrir como python
+
+pronto agora a cada 20 segundos ele vai mover o mouse para direita e para esquerda alternando entre direita e esquerda agora seu status não vai ficar mais ausente.
