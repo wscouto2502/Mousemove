@@ -1,4 +1,4 @@
-##instale o python no portal da empresa##
+##instale o python no portal da empresa###
 
 1) pesquisa por "portal da empresa" no campo de pesquisa na barra de tarefas
 2) procure por python
